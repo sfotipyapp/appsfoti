@@ -1,0 +1,22 @@
+{
+  "name": "appsfoti",
+  "version": "1.0.0",
+  "description": "aplicacion web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfotipyapp/appsfoti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sfotipyapp/appsfoti/issues"
+  },
+  "homepage": "https://github.com/sfotipyapp/appsfoti#readme",
+  "dependencies": {
+    "normalize": "^0.3.1"
+  }
+}
